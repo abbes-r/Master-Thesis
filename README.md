@@ -1,5 +1,4 @@
-# Master Thesis:
-## Clustering Algorithms For Regression-Like Modeling: Applications in Market Segmentation & Predictive Maintenance
+# Clustering Algorithms For Regression-Like Modeling: Applications in Market Segmentation & Predictive Maintenance
 
 ---
 
